@@ -2,8 +2,7 @@
 
 A modern, responsive expense management and financial control platform built with React, TypeScript, and Vite. This project features a sleek landing page and a comprehensive dashboard system with role-based access control.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](http://localhost:3000)
-[![GitHub](https://img.shields.io/badge/github-dakshverma--dev%2FApotsa-blue)](https://github.com/dakshverma-dev/Apotsa)
+
 
 ## ✨ Features
 
@@ -153,6 +152,7 @@ This project is private and proprietary.
 - GitHub: [@dakshverma-dev](https://github.com/dakshverma-dev)
 
 **Milind Maula**
+- GitHub: [@Milind-Maula](https://github.com/NeuronNexus)
 
 ## 🙏 Acknowledgments
 
